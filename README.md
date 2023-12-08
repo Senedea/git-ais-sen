@@ -8,3 +8,9 @@ Modification test pour la récupération sur la machine distante
 ## Documentation
 
 Je vais pousser cette modif vers la branche.
+
+---
+
+## Modification travail
+
+Une autre modification dans un exercice
